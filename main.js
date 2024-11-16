@@ -23,7 +23,7 @@ function contarPalabras(cadena) {
 console.log("Solución 2:");
 console.log(contarPalabras("Humahuaca es un lugar copado")); // Resultado: 5
 console.log(contarPalabras("Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit")); // Resultado: 14
-console.log(contarPalabras("No conozco Humahuaca")); // Resultado: 1
+console.log(contarPalabras("No conozco Humahuaca")); // Resultado: 3
 console.log("//////////////////////");
 
 /* 
@@ -39,8 +39,8 @@ function invertirCadena(cadena) {
 
 console.log("Solución 3:");
 console.log(invertirCadena("hola")); // Resultado: "aloh"
-console.log(invertirCadena("chau")); // Resultado: "tpircsavaj"
-console.log(invertirCadena("cachito")); // Resultado: "54321"
+console.log(invertirCadena("chau")); // Resultado: "uahc"
+console.log(invertirCadena("cachito")); // Resultado: "otihcac"
 console.log("//////////////////////");
 
 /* 
