@@ -5,8 +5,8 @@ function calcularAreaRectangulo(longitud, ancho) {
 
 console.log("Solución 1:");
 console.log(calcularAreaRectangulo(5, 3)); // Resultado: 15
-console.log(calcularAreaRectangulo(7, 2)); // Resultado: 14
-console.log(calcularAreaRectangulo(10, 5)); // Resultado: 50
+console.log(calcularAreaRectangulo(20, 15)); // Resultado: 14
+console.log(calcularAreaRectangulo(15, 7)); // Resultado: 50
 console.log("//////////////////////");
 
 /* 
@@ -23,7 +23,7 @@ function contarPalabras(cadena) {
 console.log("Solución 2:");
 console.log(contarPalabras("Humahuaca es un lugar copado")); // Resultado: 5
 console.log(contarPalabras("Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit")); // Resultado: 14
-console.log(contarPalabras("Palabra")); // Resultado: 1
+console.log(contarPalabras("No conozco Humahuaca")); // Resultado: 1
 console.log("//////////////////////");
 
 /* 
@@ -39,8 +39,8 @@ function invertirCadena(cadena) {
 
 console.log("Solución 3:");
 console.log(invertirCadena("hola")); // Resultado: "aloh"
-console.log(invertirCadena("javascript")); // Resultado: "tpircsavaj"
-console.log(invertirCadena("12345")); // Resultado: "54321"
+console.log(invertirCadena("chau")); // Resultado: "tpircsavaj"
+console.log(invertirCadena("cachito")); // Resultado: "54321"
 console.log("//////////////////////");
 
 /* 
@@ -56,7 +56,7 @@ function esPalindromo(cadena) {
 console.log("Solución 4:");
 console.log(esPalindromo("neuquen")); // Resultado: true
 console.log(esPalindromo("reconocer")); // Resultado: true
-console.log(esPalindromo("javascript")); // Resultado: false
+console.log(esPalindromo("examen")); // Resultado: false
 console.log("//////////////////////");
 
 /* 
